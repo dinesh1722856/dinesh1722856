@@ -1,288 +1,188 @@
-
 <!-- =====================================================
-     DINESH SAINI | GITHUB PROFILE README
-     Frontend Developer
+     DINESH SAINI | ULTIMATE PROFESSIONAL README
 ===================================================== -->
-
-<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=DINESH%20SAINI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<!-- Glowing Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=DINESH%20SAINI&fontSize=46&fontColor=38BDF8&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20React.js%20Specialist&descAlignY=70&descSize=15" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+world+👋;Frontend+Developer;React+Developer;Full+Stack+Developer;Building+Modern+Web+Experiences;Always+Learning+%26+Growing&center=true&size=23&duration=3000&pause=1000&color=06B6D4" alt="Typing SVG"/>
-</a>
-
-<br/>
-
+<!-- Typing Banner -->
 <a href="https://code-by-dinesh.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/dinesh-saini-70393b21b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:dineshsaini1722856@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+universe!+✨;Crafting+Scalable+Web+Interfaces;React.js+%7C+JavaScript+%7C+UI/UX;Let's+Build+Something+Amazing+Together!&center=true&size=21&duration=3000&pause=1000&color=38BDF8" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dinesh1722856&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge" alt="Profile Views"/>
+<!-- Social Connect Badges -->
+<a href="https://code-by-dinesh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
+</a>
+<a href="https://www.linkedin.com/in/dinesh-saini-70393b21b">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dineshsaini1722856@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=dinesh1722856&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/dinesh1722856?label=Followers&logo=github&style=for-the-badge&color=6366F1" alt="GitHub Followers"/>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Animation" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding Animation" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Hi! I'm **Dinesh Saini**, a passionate Frontend Developer from Rajasthan, India 🇮🇳.
+Hello there! I'm **Dinesh Saini**, a result-driven **Frontend Developer** from Rajasthan, India 🇮🇳. 
 
-I specialize in creating responsive, scalable, and user-friendly web applications using modern frontend technologies.
+I transform complex design ideas into seamless, responsive, and performance-optimized digital experiences. With hands-on professional background at **CloudZilla**, I specialize in building reusable architecture, integrating robust REST APIs, and writing clean, scalable code.
 
-With professional experience at **CloudZilla**, I have worked on responsive interfaces, reusable components, REST API integration, and website optimization.
-
-- 💼 Frontend Developer at CloudZilla
-- ⚛️ Focused on React.js and JavaScript
-- 🔧 Exploring Node.js, Express.js & MongoDB
-- 🎨 Passionate about modern UI/UX
-- 🚀 Building real-world web applications
-- 🤝 Open to collaboration and opportunities
-- 📚 Always learning new technologies
+- 💼 **Professional Experience:** Frontend Developer at **CloudZilla** (*June 2025 – Dec 2025*)
+- ⚛️ **Core Tech Stack:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+- 🚀 **Currently Upskilling:** Node.js, Express.js, MongoDB (MERN Stack Journey)
+- 🎓 **Background:** B.Tech in CSE from RTU Kota (*SGPA: 9.13*)
+- 🎯 **Mission:** Building production-ready applications with an exceptional user experience
+- ⚡ **Fun Fact:** I love exploring modern UI trends and solving frontend challenges!
 
 <br clear="right"/>
 
 ---
 
-<!-- ===================== DEVELOPER IDENTITY ===================== -->
+## 💡 Engineering Philosophy
 
-## ⚡ Developer Identity
+<div align="center">
+
+> *"Design is not just what it looks like and feels like. Design is how it works."*
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-
-### 🎨
-
-**DESIGN**
-
-Modern Interfaces
-
+<h3>🎨 <b>UI / UX Focus</b></h3>
+Translating user requirements and designs into responsive interfaces.
 </td>
 <td align="center" width="33%">
-
-### ⚛️
-
-**DEVELOP**
-
-Scalable Applications
-
+<h3>⚡ <b>Clean Code</b></h3>
+Writing modular, maintainable, and structured component trees.
 </td>
 <td align="center" width="33%">
-
-### 🚀
-
-**DELIVER**
-
-Real Solutions
-
+<h3>📈 <b>Performance</b></h3>
+Optimizing speed, SEO, and cross-browser compatibility.
 </td>
 </tr>
 </table>
 
-### `Code. Create. Innovate. Repeat.`
-
 </div>
 
 ---
 
-<!-- ===================== PROFESSIONAL EXPERIENCE ===================== -->
+## 🛠️ Technical Arsenal
+
+### 💻 Frontend & UI Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Tools"/>
+</p>
+
+### ⚙️ Backend & Databases (Expanding Stack)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Tools"/>
+</p>
+
+### 🧰 Tools, Version Control & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Tools"/>
+</p>
+
+### 📌 Core Competencies & Practices
+<p align="left">
+  <img src="https://img.shields.io/badge/RESTful%20APIs-Integration-38BDF8?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-Mobile%20First-6366F1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Component%20Architecture-Reusable-10B981?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEO%20Optimization-Performance-F59E0B?style=for-the-badge"/>
+</p>
+
+---
 
 ## 🧑‍💼 Professional Experience
 
-### Frontend Developer — CloudZilla
+### **Frontend Developer** — *CloudZilla*
+`June 2025 – December 2025` | *Jaipur, Rajasthan, India*
 
-**June 2025 – December 2025**
-
-- Developed responsive web interfaces focused on user experience.
-- Converted UI/UX designs into clean and reusable code.
-- Integrated REST APIs for dynamic data handling.
-- Improved website performance and SEO optimization.
-- Ensured cross-browser compatibility across multiple devices.
+- Designed and developed highly responsive, user-friendly web interfaces using **HTML5, CSS3, JavaScript, and React.js**.
+- Successfully converted static UI/UX designs into clean, modular, and reusable frontend components.
+- Integrated dynamic **REST APIs** to fetch, handle, and display real-time data seamlessly across web modules.
+- Enhanced overall website performance metrics, page load speeds, and contributed directly to SEO improvements.
 
 ---
 
-<!-- ===================== WHAT I BUILD ===================== -->
-
-## 🚀 What I Build
+## 🚀 Featured Live Projects
 
 <div align="center">
 
-| 🌐 Web Development | 🛠️ Digital Solutions |
-| :--- | :--- |
-| Business Websites | Interactive Dashboards |
-| E-Commerce Platforms | Responsive UI Systems |
-| Real Estate Websites | Portfolio Websites |
-| Cafe & Restaurant Websites | Custom Web Applications |
+| Project Name | Description & Category | Live Demo Link | Tech Used |
+| :--- | :--- | :--- | :--- |
+| **☕ Kaefin Coffee** | Modern coffee brand showcase and interactive ordering interface | [Visit Live Site 🔗](https://kaefincoffee.com/) | `React.js` `Bootstrap` |
+| **🛁 Flox Bath** | Premium bathroom products showcase & e-commerce UI | [Visit Live Site 🔗](https://floxbath.com/) | `JavaScript` `HTML/CSS` |
+| **🌐 Developer Portfolio** | Personal responsive developer portfolio website | [Visit Live Site 🔗](https://code-by-dinesh.vercel.app/) | `React` `Vercel` |
 
 </div>
 
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🧰 Tech Stack
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Additional Skills
-
-<p align="left">
-<img src="https://img.shields.io/badge/RESTful%20APIs-Integration-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-Authentication-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Responsive-Design-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean-Code-Architecture-10B981?style=for-the-badge"/>
-</p>
+### 🧩 Other Projects & Practice Work
+- **Job Listing UI Dashboard:** Designed structured component-driven job filters and viewing cards.
+- **Secure Authentication System:** Built server-side login/registration forms with PHP & MySQL validation.
+- **Todo REST API:** Created endpoints using Node.js and Express for complete CRUD operations.
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 🌟 Featured Projects
+## 📊 GitHub Performance & Analytics
 
 <div align="center">
 
-<a href="https://kaefincoffee.com/">
-<img src="https://img.shields.io/badge/☕_KAEFIN_COFFEE-LIVE_WEBSITE-6F4E37?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://gh-readme-stats.vercel.app/api?username=dinesh1722856&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Dinesh's%20GitHub%20Stats"
+        width="100%" alt="Dinesh's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://gh-readme-stats.vercel.app/api/top-langs/?username=dinesh1722856&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=467&custom_title=Top%20Languages%20Used"
+        width="100%" alt="Top Languages Used" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://floxbath.com/">
-<img src="https://img.shields.io/badge/🛁_FLOX_BATH-LIVE_WEBSITE-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<br/>
 
-</div>
-
-### ☕ Kaefin Coffee
-
-A modern coffee brand website focused on creating an engaging digital experience for coffee lovers.
-
-**Live Website:** [kaefincoffee.com](https://kaefincoffee.com/)
-
-**Category:** Coffee Brand Website
-
----
-
-### 🛁 Flox Bath
-
-A modern bath and bathroom products website designed to showcase products through an elegant digital experience.
-
-**Live Website:** [floxbath.com](https://floxbath.com/)
-
-**Category:** E-Commerce / Product Showcase
-
----
-
-### 💼 Other Development Projects
-
-| Project | Technologies | Description |
-|---|---|---|
-| Personal Portfolio | HTML, CSS, JavaScript | Modern responsive portfolio |
-| Login & Registration System | PHP, MySQL | Authentication with validation |
-| React Job Listing UI | React.js | Component-based job listing interface |
-| Todo API | Node.js, Express.js | REST API with CRUD operations |
-
----
-
-<!-- ===================== CURRENTLY EXPLORING ===================== -->
-
-## 🧠 Currently Exploring
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Advanced+React+Patterns;Node.js+%26+Express.js;MongoDB+%26+Database+Design;Full+Stack+Application+Development;Building+Better+Digital+Experiences&center=true&size=20&duration=2500&pause=800&color=8B5CF6"/>
+<img
+  src="https://streak-stats.demolab.com/?user=dinesh1722856&theme=tokyonight&hide_border=true&card_width=1000"
+  width="100%" alt="GitHub Streak Stats" />
 
 </div>
 
-- ⚛️ Advanced React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🔐 Authentication & Authorization
-- 🏗️ Full Stack Architecture
-- 📈 Performance Optimization
-
----
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dinesh1722856&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Dinesh's%20GitHub%20Stats" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh1722856&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" width="100%"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=dinesh1722856&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%"/>
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh1722856&bg_color=0F172A&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph-sigma.vercel.app/graph?username=dinesh1722856&bg_color=0F172A&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true&radius=8" width="100%" alt="Dinesh's Contribution Graph"/>
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB TROPHIES ===================== -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dinesh1722856&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
-
-</div>
-
----
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
@@ -296,70 +196,48 @@ A modern bath and bathroom products website designed to showcase products throug
 
 ---
 
-<!-- ===================== DEVELOPER PHILOSOPHY ===================== -->
-
-## 🧩 My Development Philosophy
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-> "Every line of code is a step toward turning an idea into reality."
+<img src="https://github-profile-trophy-rust.vercel.app/?username=dinesh1722856&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
-- 💡 Think creatively
-- 🧩 Solve problems efficiently
-- 🎯 Focus on user experience
-- 📚 Learn continuously
-- 🚀 Build with purpose
-
 ---
 
-<!-- ===================== CONNECT WITH ME ===================== -->
-
-## 🌐 Let's Connect
+## 🌐 Let's Connect & Build Together
 
 <div align="center">
 
 <a href="https://code-by-dinesh.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
-
 <a href="https://github.com/dinesh1722856">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/dinesh-saini-70393b21b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/_official_dinesh_saini">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-<a href="https://www.facebook.com/share/16agVruQQt/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
 <a href="mailto:dineshsaini1722856@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💬 Open to Collaborations, Freelance Projects & Career Opportunities 🚀
+### 💬 Open for Frontend Developer Roles, Freelance Opportunities & Open-Source Collaborations! 🚀
 
 </div>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=110&section=footer" width="100%"/>
 
-### Thanks for visiting my profile! 👋
-
-**Let's build something amazing together.**
+### Thank you for stopping by! Have an awesome day ahead ⭐
 
 </div>
