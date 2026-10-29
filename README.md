@@ -1,7 +1,7 @@
 
 <!-- =====================================================
      DINESH SAINI | GITHUB PROFILE README
-     Frontend Developer | React Developer | Full Stack Developer
+     Frontend Developer
 ===================================================== -->
 
 <!-- ===================== HEADER ===================== -->
